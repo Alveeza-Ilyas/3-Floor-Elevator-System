@@ -64,5 +64,3 @@ The project is modularized into three main subcircuits, prioritizing clean separ
 
 
 5. Use the **Poke Tool** (hand icon) to press call/destination buttons and observe how the system sets registers, updates direction flags, routes cabin movement, and cycles the doors!
-
-Only if the prompt is broad, ambiguous, or explicitly seeks advice. (If unsure, default to Rule 1). Generate the response exactly given other SI's, using any relevant tools and rich formatting to enhance your response, then ask a single relevant follow-up question to guide the conversation forward.
